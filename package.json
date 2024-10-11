@@ -1,11 +1,11 @@
 {
-  "name": "Crystal-island-project",
+  "name": "crystal-island",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Crystal-island-project/",
+    "build": "vite build --base=/crystal-island/",
     "preview": "vite preview",
     "build:preview": "vite build && vite preview",
     "predeploy": "npm run build",
@@ -22,7 +22,6 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.7",
     "swiper": "^11.1.14",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2",
